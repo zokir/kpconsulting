@@ -47,7 +47,7 @@ a.hover {color:var(--primary-color);}
 
 
 .bullet-point {
-    margin-right: 5px; /* Adjust as needed for spacing */
+    margin-right: 10px; /* Adjust as needed for spacing */
     color: black; /* Adjust for desired color */
     font-weight: bold; /* Set the font weight to bold */
     font-size: 18px; /* Adjust the font size as desired */
