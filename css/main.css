@@ -21,6 +21,14 @@ a.hover {color:var(--primary-color);}
     font-size: large;
 }
 
+.navbar-nav .nav-item {
+    margin-right: 10px; /* Space between list items */
+}
+
+.navbar-nav .nav-item .topright-menu {
+    color: #32594a;
+}
+
 /*
 * Hero Section
 */
